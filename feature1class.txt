@@ -1,7 +1,7 @@
-feature1.class
-
-
 public class Feature {
 	private String name;
 	private Integer count;
+
+	public String getName() {
+		return name;
 }
